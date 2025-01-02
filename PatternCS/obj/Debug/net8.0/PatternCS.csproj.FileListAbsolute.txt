@@ -1,0 +1,14 @@
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\bin\Debug\net8.0\PatternCS.exe
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\bin\Debug\net8.0\PatternCS.deps.json
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\bin\Debug\net8.0\PatternCS.runtimeconfig.json
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\bin\Debug\net8.0\PatternCS.dll
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\bin\Debug\net8.0\PatternCS.pdb
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.AssemblyInfoInputs.cache
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.AssemblyInfo.cs
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.csproj.CoreCompileInputs.cache
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.dll
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\refint\PatternCS.dll
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.pdb
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.genruntimeconfig.cache
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\ref\PatternCS.dll
