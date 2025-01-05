@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PatternCS
-build_property.ProjectDir = C:\Users\mabarca\Documents\PatternDesign\PatternCS\
+build_property.ProjectDir = c:\Users\mabarca\Documents\PatternDesign\PatternCS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

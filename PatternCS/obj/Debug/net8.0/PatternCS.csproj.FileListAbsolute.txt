@@ -12,3 +12,4 @@ C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\refint\Patte
 C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.pdb
 C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.genruntimeconfig.cache
 C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\ref\PatternCS.dll
+C:\Users\mabarca\Documents\PatternDesign\PatternCS\obj\Debug\net8.0\PatternCS.sourcelink.json

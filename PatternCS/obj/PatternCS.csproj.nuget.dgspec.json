@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj": {}
+    "c:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj": {
+    "c:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj",
+        "projectUniqueName": "c:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj",
         "projectName": "PatternCS",
-        "projectPath": "C:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj",
+        "projectPath": "c:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\PatternCS.csproj",
         "packagesPath": "C:\\Users\\mabarca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\obj\\",
+        "outputPath": "c:\\Users\\mabarca\\Documents\\PatternDesign\\PatternCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mabarca\\AppData\\Roaming\\NuGet\\NuGet.Config"
