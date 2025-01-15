@@ -1,0 +1,15 @@
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\bin\Debug\net6.0\PatternCS.exe
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\bin\Debug\net6.0\PatternCS.deps.json
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\bin\Debug\net6.0\PatternCS.runtimeconfig.json
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\bin\Debug\net6.0\PatternCS.dll
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\bin\Debug\net6.0\PatternCS.pdb
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.csproj.AssemblyReference.cache
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.AssemblyInfoInputs.cache
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.AssemblyInfo.cs
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.csproj.CoreCompileInputs.cache
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.dll
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\refint\PatternCS.dll
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.pdb
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\PatternCS.genruntimeconfig.cache
+C:\Users\shabioks\source\repos\Design-Patterns\PatternCS\obj\Debug\net6.0\ref\PatternCS.dll
