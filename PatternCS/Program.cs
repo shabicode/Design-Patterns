@@ -1,5 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 using Microsoft.VisualBasic;
+using PatternCS.Observer;
 
 Console.WriteLine("**** Singleton Pattern Demostration **** \n");
 Console.WriteLine(Singleton.Instance.msg);
@@ -15,56 +16,27 @@ if (firstInstance.Equals(secondInstance)){
     Console.WriteLine("Different instances exist.");
 }
  Console.Read();
-           
 
-Console.WriteLine(MaxScore("00"));
-//0 1 1 1 0 1
-int MaxScore(string s) {
-    int maxScore = 0;
-    for(int i = 0; i < s.Length - 1; i++ ) {
-        int leftScore = calculateScore('0', s[..(i+1)]);
-        int rightScore = calculateScore('1',s[(i+1)..]);
-        maxScore = Math.Max(leftScore, rightScore);
-    }
-    return maxScore;
-}
 
-int calculateScore(char number, string subString) {
-    int count = 0;
-    foreach (char c in subString) {
-        if (c == number) { count += 1; }
-    }
-    return count;
-}
-//words = ["aba","bcb","ece","aa","e"], queries = [[0,2],[1,4],[1,1]]
-string[] words =["aba","bcb","ece","aa","e"];
-int[][] queries = [[0,2],[1,4],[1,1]];
+Console.WriteLine("**** Observer Pattern Demostration **** \n");
+User userOne = new User();
+userOne.FullName = "User One";
 
-//0,1 1,0, 2,1
+User userTwo = new User();
+userOne.FullName = "User Two";
 
-var result = vowelStrings(words, queries);
-Console.WriteLine(result);
-int[] vowelStrings(string[] words, int[][] queries) {
-    int[] result = new int[queries.Length];
-    int[] wordsWithVowel = arrayVowelWords(words);
-    int[] prefixSum = new int[wordsWithVowel.Length + 1];
+User userThree = new User();
+userOne.FullName = "User Three";
 
-    for(int i = 0; i < wordsWithVowel.Length; i++){
-        prefixSum[i + 1] = prefixSum[i] + wordsWithVowel[i];
-    } 
+Blog blog = new Blog();
+blog.Attach(userOne);
+blog.Attach(userTwo);
+blog.Attach(userThree);
 
-    for (int i = 0; i <= queries.Length - 1; i ++) {
-        result[i] = prefixSum[queries[i][1] + 1] - prefixSum[queries[i][0]];
-    }
-    return result;
+Post post = new Post();
+post.Title = "New Post";
+post.Description = "New post description";
+post.PublicationTime = DateTime.Now;
 
-}
-///////////////////////////////////////////////////////////
-int[] arrayVowelWords (string[] words) {
-    int[] vowelWords = new int[words.Length];
-    var regex = new Regex("^[aeiouAEIOU](.*[aeiouAEIOU])?$");
-    for(int i = 0; i < words.Length; i ++) { 
-        vowelWords[i] = regex.IsMatch(words[i]) ? 1 : 0;
-    }
-    return vowelWords;
-}
+blog.AddPost(post);
+Console.Read();
